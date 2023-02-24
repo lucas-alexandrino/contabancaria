@@ -10,6 +10,8 @@ public abstract class Conta {
 	private String titular;
 	private float saldo;
 
+
+	
 	public Conta(int numero, int agencia, int tipo, String titular, float saldo) {
 		this.numero = numero;
 		this.agencia = agencia;
@@ -18,6 +20,7 @@ public abstract class Conta {
 		this.saldo = saldo;
 
 	}
+	
 
 	public int getNumero() {
 		return numero;

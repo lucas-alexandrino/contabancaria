@@ -13,7 +13,7 @@ public interface ContaRepository {
 
 	public void atualizar(Conta conta);
 
-	public void deletar(Conta numero);
+	public void deletar(int numero);
 
 	// Métodos Bancários
 	public void sacar(int numero, float valor);
