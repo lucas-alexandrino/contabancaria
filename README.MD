@@ -49,7 +49,7 @@ Para executar este projeto, você precisará ter o seguinte instalado:
 - Clone este repositório para o seu ambiente local:
 
 ```
-git clone https://github.com/seuusuario/contabancaria.git
+git clone https://github.com/lucas-alexandrino/contabancaria.git
 ```
 - Abra o projeto na sua IDE preferida.
 - Compile e execute o projeto a partir da classe Menu.java.
