@@ -7,7 +7,7 @@ Este projeto é uma aplicação de conta bancária simples desenvolvida em Java.
 ## Estrutura do Repositório
 O repositório está organizado da seguinte forma:
 
-´´´
+```
 /
 |-- .settings/
 |-- bin/conta/
@@ -24,7 +24,7 @@ O repositório está organizado da seguinte forma:
 |   |-- util/
 |       |-- Cores.java
 
-´´´
+```
 
 ## Descrição dos Diretórios e Arquivos
 - .settings/: Diretório com configurações específicas do ambiente de desenvolvimento.
@@ -48,9 +48,9 @@ Para executar este projeto, você precisará ter o seguinte instalado:
 ## Instalação
 - Clone este repositório para o seu ambiente local:
 
-´´´
+```
 git clone https://github.com/seuusuario/contabancaria.git
-´´´
+```
 - Abra o projeto na sua IDE preferida.
 - Compile e execute o projeto a partir da classe Menu.java.
 
